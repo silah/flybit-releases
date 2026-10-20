@@ -1,6 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Flybit</title>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Flybit</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 20 Oct 2026 00:01:04 +0100</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/silah/flybit-releases/releases/download/v1.0/Flybit-1.0.dmg" length="7064249" type="application/octet-stream" sparkle:edSignature="7hH0CvjzPyWBjQA3fvbwhN5GwxjvIV6r5UBuqv/k5j/yV+2+9HnKkIH9h69HQuplZuWaKYH0OfczlEDigiP8Dw=="/>
+        </item>
+    </channel>
 </rss>
